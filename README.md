@@ -1,2 +1,2 @@
 # Py_days
-Exploring python.
+Python in your finger tips.
